@@ -85,7 +85,7 @@ The **Marketing Mix Modeling (MMM) Data Analysis Dashboard** is an object-orient
 📌 **Becher Zribi**
 - ✉️ Email: [zribibecher.tn@gmail.com](mailto:zribibecher.tn@gmail.com)
 - 🔗 LinkedIn: [Becher Zribi](https://www.linkedin.com/in/becher-zribi/)
-- 🖥 GitHub Repository: [Marketing-Mix-Modeling](https://github.com/becherzribi/Marketing-Mix-Modeling)
+- 🖥 GitHub Repository: [Marketing-Mix-Modeling](https://github.com/becherzribi/Marketing-Mix-Modeling-Dashboard)
 
 ---
 **🎯 Marketing Mix Modeling Dashboard - 2025**
