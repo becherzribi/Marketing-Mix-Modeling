@@ -80,8 +80,6 @@ The **Marketing Mix Modeling (MMM) Data Analysis Dashboard** is an object-orient
 - 🔐 Add user authentication and session management.
 - 🎨 Optimize UI for a more interactive dashboard experience.
 
-## 📜 License
-This project is licensed under the **MIT License**.
 
 ## 📩 Contact
 📌 **Becher Zribi**
